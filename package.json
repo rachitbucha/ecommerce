@@ -1,0 +1,18 @@
+{
+  "name": "ecommerce-app",
+  "version": "1.0.0",
+  "description": "Ecommerce app for buy, sell and manager products easily.",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rachit",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.20.0"
+  }
+}
